@@ -1,6 +1,6 @@
 # -------------------------------------------------------
 # Assignment 1
-# Written by Anthony Iacampo - 40096683
+# Written by Jordan Hum - 40095876
 # For COMP 472 Section IX – Summer 2020
 # --------------------------------------------------------
 
